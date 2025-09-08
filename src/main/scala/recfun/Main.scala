@@ -48,6 +48,17 @@ object Main {
    * Exercise 3
    */
   def countChange(money: Int, coins: List[Int]): Int = {
-    1
+    if (coins.isEmpty) 0
+    else {
+      var method = 0
+      val coin = coins.head
+      var i = 0
+      while (money >= coin * i) {
+        if (money == coin * i) method += 1
+        else method += countChange(money - coin * i, coins.tail)
+        i += 1
+      }
+      method
+    }
   }
 }
