@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c48e548-91fc-4942-a945-91a35c44eba7" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/lib/cafesat_2.11-0.01.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cafesat_2.11-0.01.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/CourseraHttp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/ProgFunBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/RecordingLogger.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/RichJsValue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/buildPlugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$177b0acba180f55a42a0$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$177b0acba180f55a42a0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$177b0acba180f55a42a0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$177b0acba180f55a42a0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$427e4a58d33479324932$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$427e4a58d33479324932$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$427e4a58d33479324932.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$427e4a58d33479324932.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$51541eaba738f0d0d1de$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$51541eaba738f0d0d1de$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$51541eaba738f0d0d1de.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$51541eaba738f0d0d1de.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58298c3f192956ba6553$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58298c3f192956ba6553$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58298c3f192956ba6553.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58298c3f192956ba6553.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58bb178cf7abb9cbcb28$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58bb178cf7abb9cbcb28$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58bb178cf7abb9cbcb28.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$58bb178cf7abb9cbcb28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$5cefb2f0963c241dda6f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$5cefb2f0963c241dda6f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$5cefb2f0963c241dda6f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$5cefb2f0963c241dda6f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$b15db00305b45b29f7d3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$b15db00305b45b29f7d3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$b15db00305b45b29f7d3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$b15db00305b45b29f7d3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$f4dda0cdf7077bb737e4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$f4dda0cdf7077bb737e4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$f4dda0cdf7077bb737e4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$fb962b15dcf620a9764f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$fb962b15dcf620a9764f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$fb962b15dcf620a9764f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/config-classes/$fb962b15dcf620a9764f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/default/recfun-build-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/default/recfun-build-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/compile/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/scalastyle_config_reactive.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$27b6b91560aa82d43879$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$27b6b91560aa82d43879$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$27b6b91560aa82d43879.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$27b6b91560aa82d43879.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$4627fe1fe7d85b835e4d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$4627fe1fe7d85b835e4d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$4627fe1fe7d85b835e4d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$4627fe1fe7d85b835e4d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$59bd0f6411e4cde530f4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$59bd0f6411e4cde530f4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$59bd0f6411e4cde530f4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$59bd0f6411e4cde530f4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$5a82da4629cc24d9bc78$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$5a82da4629cc24d9bc78$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$5a82da4629cc24d9bc78.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$5a82da4629cc24d9bc78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$69bd8666530396e40cdd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$69bd8666530396e40cdd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$69bd8666530396e40cdd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$69bd8666530396e40cdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$80310cf29ded4dc23d4e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$80310cf29ded4dc23d4e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$80310cf29ded4dc23d4e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$80310cf29ded4dc23d4e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$8403c85b2344519373cf$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$8403c85b2344519373cf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$8403c85b2344519373cf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$8403c85b2344519373cf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$893f0780f6c1ad04b2bf$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$893f0780f6c1ad04b2bf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$893f0780f6c1ad04b2bf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$893f0780f6c1ad04b2bf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$97c4264871bd924c804a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$97c4264871bd924c804a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$97c4264871bd924c804a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$97c4264871bd924c804a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$$anonfun$$sbtdef$1$$anonfun$apply$1$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$$anonfun$$sbtdef$1$$anonfun$apply$1$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$$anonfun$$sbtdef$1$$anonfun$apply$1$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$9b3c868f11068e280e11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a438a32a7888fe88480b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a438a32a7888fe88480b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a438a32a7888fe88480b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a438a32a7888fe88480b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a9b7797d4be8ca90f566$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a9b7797d4be8ca90f566$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a9b7797d4be8ca90f566.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$a9b7797d4be8ca90f566.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b167ff1de7dba65a3cea$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b167ff1de7dba65a3cea$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b167ff1de7dba65a3cea.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b167ff1de7dba65a3cea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b518d318499b55aa3fe3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b518d318499b55aa3fe3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b518d318499b55aa3fe3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$b518d318499b55aa3fe3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bb24345bf1bda9683562$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bb24345bf1bda9683562$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bb24345bf1bda9683562.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bb24345bf1bda9683562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bedc53135a097bb91246$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bedc53135a097bb91246$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bedc53135a097bb91246.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$bedc53135a097bb91246.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$c135e3455e83edb8365c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$c135e3455e83edb8365c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$c135e3455e83edb8365c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$c135e3455e83edb8365c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$cdf2091d29421051cee8$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$cdf2091d29421051cee8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$cdf2091d29421051cee8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/config-classes/$cdf2091d29421051cee8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/default/recfun-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/default-recfun-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/Challenge$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/Challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$executeRequest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$executeRequest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$extractJson$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$extractJson$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$fullExceptionString$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$getChallenge$1$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$getChallenge$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitGrade$1$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitGrade$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$3$$anonfun$apply$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitGrade$2$$anonfun$apply$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitGrade$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$$anonfun$submitSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/CourseraHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/DeprectaionForwarder$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/DeprectaionForwarder$FwdClass$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/DeprectaionForwarder$FwdClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/DeprectaionForwarder$NaiveTrustManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/DeprectaionForwarder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/JsonSubmission$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/JsonSubmission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anon$1$$anonfun$accept$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$13$$anonfun$apply$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$14$$anonfun$apply$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$22$$anonfun$apply$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$24$$anonfun$apply$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$26$$anonfun$apply$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$28$$anonfun$apply$29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21$$anonfun$apply$28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$3$$anonfun$apply$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$3$$anonfun$apply$7$$anonfun$apply$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$3$$anonfun$apply$7$$anonfun$apply$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$3$$anonfun$apply$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$7$$anonfun$apply$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$apply$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$apply$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$apply$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6$$anonfun$apply$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$8$$anonfun$apply$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$8$$anonfun$apply$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$allProjectsSetting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$assignmentProject$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$copiedResourceFiles$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$createHandoutSetting$1$$anonfun$apply$11$$anonfun$apply$12$$anonfun$withRelativeNames$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$createHandoutSetting$1$$anonfun$apply$11$$anonfun$apply$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$createHandoutSetting$1$$anonfun$apply$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$createHandoutSetting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$gradeProjectDetailsSetting$1$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$gradeProjectDetailsSetting$1$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$gradeProjectDetailsSetting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$handleFailure$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$initGradingSetting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$recitations$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$recitations$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$recitations$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$recitations$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submissionProject$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$2$$anonfun$apply$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSetting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSources$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSources$2$$anonfun$apply$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSources$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSources$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$$anonfun$submitSources$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProgFunBuild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProjectDetails$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ProjectDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/QueueResult$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/QueueResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/RichJsValue$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/RichJsValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$runScalaTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$runScalaTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/Settings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/SubmitJsonProtocol$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/SubmitJsonProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/compile/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/src/main/scala/common/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recfun/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/src/test/scala/recfun/BalanceSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/src/test/scala/recfun/CountChangeSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recfun/src/test/scala/recfun/PascalSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/recfun/PascalSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/recitations/recitations$sources_2.10/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/recitations/recitations$sources_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/recitations/recitations$sources_2.10/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/recitations/recitations$sources_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/resolution-cache/reports/recitations-recitations$sources_2.10-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recitations/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/recitations/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/submission/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun-recfun/progfun-recfun$sources_2.11/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun-recfun-progfun-recfun$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/BalanceSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/CountChangeSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/recfun/PascalSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/recfun.BalanceSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/recfun.BalanceSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/recfun.CountChangeSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/recfun.CountChangeSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/recfun.PascalSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/recfun.PascalSuite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Octaki&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Octaki/cs332-assign&quot;,
+    &quot;accountId&quot;: &quot;fddf7ff7-0fdb-414d-9b47-8d15897b7d2d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32Q0uW0894eYXWgNmNyHQO4jGhj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/leeju/SD/recfun",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leeju\SD\recfun" />
+    </key>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4c48e548-91fc-4942-a945-91a35c44eba7" name="변경" comment="" />
+      <created>1757337712562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757337712562</updated>
+      <workItem from="1757337713895" duration="3296000" />
+      <workItem from="1757341191364" duration="647000" />
+    </task>
+    <task id="LOCAL-00001" summary="add main files">
+      <option name="closed" value="true" />
+      <created>1757337909825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757337909825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implement pascal function using recursion.">
+      <option name="closed" value="true" />
+      <created>1757338282129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757338282129</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implement balance function using tail recursion.&#10;I defined braket function that include the number of unfair left brakets.">
+      <option name="closed" value="true" />
+      <created>1757338640915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757338640915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git functions are to hard for me. I did just commit, but now I can't use 'sbt' command.">
+      <option name="closed" value="true" />
+      <created>1757338810700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757338810700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add main files" />
+    <MESSAGE value="implement pascal function using recursion." />
+    <MESSAGE value="implement balance function using tail recursion.&#10;I defined braket function that include the number of unfair left brakets." />
+    <MESSAGE value="git functions are to hard for me. I did just commit, but now I can't use 'sbt' command." />
+    <option name="LAST_COMMIT_MESSAGE" value="git functions are to hard for me. I did just commit, but now I can't use 'sbt' command." />
+  </component>
+</project>
