@@ -110,5 +110,65 @@ class FunSetSuite extends FunSuite {
     }
   }
 
+  test("intersect contains common elements of each set") {
+    new TestSets {
+      val s = intersect(s1, s2)
+      assert(!contains(s, 1), "intersect 1")
+      assert(!contains(s, 2), "intersect 2")
+    }
+  }
+
+  test("diff contains elements in only one set") {
+    new TestSets {
+      val basicset = Set(1, 2, 3)
+      val diffset = diff(basicset, s2)
+      assert(contains(diffset, 1), "diff 1")
+      assert(!contains(diffset, 2), "diff 2")
+      assert(contains(diffset, 3), "diff 3")
+    }
+  }
+
+  test("filter") {
+    new TestSets {
+      val basicset = Set(1, 2, 3, 4, 5)
+      val filterset = filter(basicset, (x: Int) => x > 2)
+      assert(!contains(filterset, 1), "filter 1")
+      assert(!contains(filterset, 2), "filter 2")
+      assert(contains(filterset, 3), "filter 3")
+      assert(contains(filterset, 4), "filter 4")
+      assert(contains(filterset, 5), "filter 5")
+    }
+  }
+
+  test("set {1,2,3} is less than 5, not more than 2") {
+    new TestSets {
+      val s = Set(1, 2, 3)
+      val alllessthan5 = forall(s, (x: Int) => x < 5)
+      val allmorethan2 = forall(s, (x: Int) => x > 2)
+      assert(alllessthan5, "less than 5")
+      assert(!allmorethan2, "more than 2")
+    }
+  }
+
+  test("in the set {1,2,3}, there are some elements that are less than 2") {
+    new TestSets {
+      val s = Set(1, 2, 3)
+      val existlessthan2 = exists(s, (x: Int) => x < 2)
+      assert(existlessthan2, "less than 2")
+    }
+  }
+
+  test("map") {
+    new TestSets {
+      val s = Set(1, 2, 3)
+      val add5 = map(s, (x: Int) => x + 5)
+      assert(!add5(1), "map 1")
+      assert(!add5(2), "map 2")
+      assert(!add5(3), "map 3")
+      assert(add5(6), "map 6")
+      assert(add5(7), "map 7")
+      assert(add5(8), "map 8")
+    }
+  }
 
 }
