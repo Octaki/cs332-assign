@@ -133,9 +133,9 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
   }
 
   def union(that: TweetSet): TweetSet = {
-    if (that.elem.text < elem.text) new NonEmpty(elem, left.union(that), right)
-    else if (that.elem.text > elem.text) new NonEmpty(elem, left, right.union(that))
-    else new NonEmpty(elem, left.union(that.left), right.union(that.right))
+    var result = that
+    foreach((t: Tweet) => result = result.incl(t))
+    result
   }
 
   /**
