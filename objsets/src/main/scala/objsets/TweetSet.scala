@@ -133,9 +133,13 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
   }
 
   def union(that: TweetSet): TweetSet = {
+    /*
     var result = that
     foreach((t: Tweet) => result = result.incl(t))
     result
+    */
+    val UnionExceptElem = left.union(right.union(that))
+    UnionExceptElem.incl(elem)
   }
 
   /**
