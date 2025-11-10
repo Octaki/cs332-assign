@@ -22,13 +22,13 @@ package object nodescala {
      *
      *  This future may be useful when testing if timeout logic works correctly.
      */
-    def never[T]: Future[T] = Promis[T]().future
+    def never[T]: Future[T] = Promise[T]().future
     /** Given a list of futures `fs`, returns the future holding the list of values of all the futures from `fs`.
      *  The returned future is completed only once all of the futures in `fs` have been completed.
      *  The values in the list are in the same order as corresponding futures `fs`.
      *  If any of the futures `fs` fails, the resulting future also fails.
      */
-    def all[T](fs: List[Future[T]]): Future[List[T]] = Future.sequemce(fs)
+    def all[T](fs: List[Future[T]]): Future[List[T]] = Future.sequence(fs)
     /** Given a list of futures `fs`, returns the future holding the value of the future from `fs` that completed first.
      *  If the first completing future in `fs` fails, then the result is failed as well.
      *
@@ -41,7 +41,7 @@ package object nodescala {
     def any[T](fs: List[Future[T]]): Future[T] = {
       val p = Promise[T]()
       fs.foreach(_.onComplete(p.tryComplete))
-      p.Future
+      p.future
     }
 
     /** Returns a future with a unit value that is completed after time `t`.
